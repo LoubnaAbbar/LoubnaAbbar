@@ -1,4 +1,5 @@
-I'm Loubna Abbar 👋
+<h1 align="center">Hey there! I'm Loubna Abbar 👋</h1>
+
 
 ---
 
@@ -16,7 +17,7 @@ I'm Loubna Abbar 👋
 ### 🧰 Here are some technologies I use on a daily basis:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,js,symfony,laravel,nodejs,react,python,tailwind,docker" />
+<img src="https://skillicons.dev/icons?i=php,js,symfony,nodejs,react,python,tailwind,html,css" />
 </p>
 
 ---

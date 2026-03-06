@@ -10,7 +10,7 @@
 🚀 Working on web and digital projects  
 🧠 Curious about new technologies and product thinking  
 
-👉 [My website coming soon]
+👉 (https://portfolio-hyz5.onrender.com/)
 
 ---
 
